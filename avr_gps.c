@@ -72,13 +72,19 @@ data=UDR;
 void main(void){
 char i=0;
 int jam_tampil;
+    
+//USART 9600bps
 UCSRA=0x00;
 UCSRB=0x98;
 UCSRC=0x06;
 UBRRH=0x00;
 UBRRL=0x67;
 
+//LCD PORTB
+//konfigurasi Port LCD harus masuk di menu konfigurasi CVAVR
 lcd_init(16);
+
+//Menyalakan backlight LCD
 DDRA.3=1;
 PORTA.3=1;
 #asm("sei")
@@ -97,7 +103,6 @@ while (1)
                       lcd_puts(latitude);lcd_putchar(0x20);lcd_putchar(latitude_indicator);
                       lcd_gotoxy(0,1);
                       lcd_puts(longitude);lcd_putchar(0x20);lcd_putchar(longitude_indicator);
-                      //printf("%s %c %s %c\r\n",longitude,longitude_indicator,latitude,latitude_indicator);
                       }
                     else if(i<8){
                       bujur=(longitude[0]-'0')*100+(longitude[1]-'0')*10+(longitude[2]-'0');
