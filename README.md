@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://indo-ware.com/logo/LOGONEW2.png" alt="Indoware logo"/>
 </p>
+
 # Introduction gps-ct1612ub
 
 </p>Cara membaca data latitude, longitude dan jam satelit dengan mikrokontroller AVR dan menampilkannya di LCD pemograman dengan CodeVisionAVR 2.05.3 Pada listing code ini terdapat cara memisahkan memilih, memisahkan, dan menampilkan data tersebut pada LCD 16x2.</p>
