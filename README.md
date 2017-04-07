@@ -2,7 +2,7 @@
   <img src="https://indo-ware.com/logo/LOGONEW2.png" alt="Indoware logo"/>
 </p>
 
-# Contoh kode gps-ct1612ub
+# Introduction gps-ct1612ub
 
 </p>Cara membaca data latitude, longitude dan jam satelit dengan mikrokontroller AVR dan menampilkannya di LCD pemograman dengan CodeVisionAVR 2.05.3 Pada listing code ini terdapat cara memisahkan memilih, memisahkan, dan menampilkan data tersebut pada LCD 16x2.</p>
 
@@ -44,8 +44,11 @@
 <li>Regulator 3V LP2950</li>
 </ol>
 
+<p>LCD disambungkan pada PORTA modul dan kaki TX pada GPS disambungkan pada PORT RX ATmega32 yaitu PORTD.0</p>
+
 ## Deskripsi Kerja Program
+<p>Pada saat Modul dinyalakan maka maka Mikrokontroller akan menunggu hingga mendapatkan data GLL. setelah data didapatkan maka LCD akan menampilkan data longitude dan latitude telebih dahulu selama 3 detik kemudian dilanjutkan dengan data jam yang telah disesuaikan dengan zona waktu masing-masing dengan rumus perhitungan bujur.</p>
 
-
-<p><b>by Arief Ismail</b></p>
-<p><b>Copyright Indo-Ware</b></p>
+##
+<p align="right" size"6"><b>by Arief Ismail</b></p>
+<p align="right" size"6"><b>Copyright Indo-Ware</b></p>
