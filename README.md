@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://indo-ware.com/logo/LOGONEW2.png" alt="Indoware logo"/>
 </p>
+
 # Introduction gps-ct1612ub
+
   <img align="middle" src="https://lh3.googleusercontent.com/U8BbwVDq1qoQIpUevqF-B64Ver6GkTOeiSkpAqmdpOhtz8tBcdv2FjQgheMJrcPF3zTNn23XHU2ZPWyRCJzQfu6ilk5Mu4I_70nT0RPOVmTcEdsGX1QuzFi_261BVqgfS5aM0MgtpRaLTKg-4rg6rqiIG_iBfZwqLqSKcYTlLy4e9qUGcPpCYYJJJ5Q7RUs4acwQKfQ2Lg0C_ddm3EP3CS42IZOTymhDSdnzk73mbQ9L2XO3bswvhQWo1XidKbBqppd3-IvdPPszttMpEQXc0msZShMc9aJzVnXljhIJDA0mIrj7e313oXOOfj-08JgNsz9ZQhCsqLuxgfJzc_dm1HBzPNWPSvA2xr49Btdg2uyslF8nXGiyhJswCvN3ihpS6MVsEuIO45aFJQlS_LtiK6nqgwFTnQrOViGrrWiCT24-F2-v4T6nh98loYHQf7-ePx-fET3Nj4jzNxWZ3hlEPMWvOC8DTMX8M0MDy1VLp0VyndHRb_CMmYQ0Avo3oTE_GY7jrxis0wnIsrLQHn6Jm7waIGMokr6aNPJxFsBk6m_EO8OCrVPUHGD3x2ESXG8gB57xvtVxzXDtls6Bp3UndroI6-WO0y5Ka0zehiiQyuMDf01Rf8w=w1366-h490-no"/>
 <p>Pada <i>readme</i> ini akan dijelaskan cara membaca data latitude, longitude dan jam satelit dengan modul mikrokontroller AVR ATmega328P IndoWare dan menampilkannya di LCD pemograman dengan CodeVisionAVR 2.05.3 Pada listing code ini terdapat cara memisahkan memilih, memisahkan, dan menampilkan data tersebut pada LCD 16x2.</p>
 
