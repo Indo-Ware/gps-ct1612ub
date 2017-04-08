@@ -58,5 +58,5 @@
 <img align="middle" src="https://lh3.googleusercontent.com/2EX_PhnCzEt0oEff0Lw7D8rqmJEPtFUbZYA1sXnso7eZJNWT_5yC3XJ6Zl9H9x0K6kk_ZUzoT31TeZKhOdx2b6SEaQhK18VcAGfKgY95CUf8Cx7MWqEElIY7lmN9tVZ093eFfKEbxbczW3GvAfQsVyYMBRCahG5vK4Vw4ECoKTNeqa3KmV0MX5zvhnlvmuHaZ0G7CAep90_fQcFOQrOgQxS56_9-4MLofzsMC0Ah4j0B69i5a4_9CIaUYWR_i9PjwxDXpXOisHkCkwIQVOdTTcwu9hAl_3MliNwwK2HwBOTk_dr66BMvep2qWS-peoJKMElQqR3Nk3qiDK4jRuU2KvTfUvPUynA0MPmAwdOZZrSffL1dQhMT6zlaMUvU7LJJ1RrRuffBWJHhwcRxcFt78HO130GjIvY-pwsZ9sWEFtayP8TiSYNyBMBi9BEb2fyjaLWWwise9tWGMzQ8e1YQRYr08-0D7uRh93VBiCLhwVB6QDvL01ELuN2SiZjflTmRBUo05wjxhGA0E7Kn4SXXrnL5pBzJlAVsN9VeIXgYOLDSz-lgW_q0RD38l7_KDol0YNkB5unygG32FJjMOJTjNHNNqQ-PXdNcFLZvJs6n6uwc-1fB74Y=w1090-h613-no"/>
 
 ##
-<p align="right" size"6"><b>by Arief Ismail</b></p>
+<p align="right" size"6"><b>by IRP</b></p>
 <p align="right" size"6"><b>Copyright Indo-Ware</b></p>
